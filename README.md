@@ -62,8 +62,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CodeByGabriel/CodeByGabriel/output/snake.svg" alt="Snake animation" />
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> 
+</div>
 
 ###
