@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Olá, me chamo Gabriel Ferreira👋<br>🔭 Hoje estudo back-end<br>🌱 Estudando Python, PHP, JavaScript<br>e SQL.</h5>
+<h5 align="left">Olá, me chamo Gabriel Ferreira👋<br>🔭 Hoje estudo back-end<br>🌱 Estudando Java, C, Python, PHP, JavaScript<br>e SQL.</h5>
 
 ###
 
