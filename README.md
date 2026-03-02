@@ -51,7 +51,7 @@
 
 ###
 
-<img align="right" height="247" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*smxCUmqplJU2z6ZU.gif"  />
+<img align="center" height="247" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*smxCUmqplJU2z6ZU.gif"  />
 
 ###
 
