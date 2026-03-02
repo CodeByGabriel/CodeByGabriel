@@ -52,3 +52,15 @@
 <div align="center">
   <img height="247" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*smxCUmqplJU2z6ZU.gif" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByGabriel&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeByGabriel&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
